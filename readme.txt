@@ -1,2 +1,2 @@
 console.log("hello")
-consol.log("adding another line")
+console.log("adding another line")
